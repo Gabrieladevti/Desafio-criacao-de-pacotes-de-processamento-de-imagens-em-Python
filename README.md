@@ -1,4 +1,5 @@
-# package_name
+Desafio-criação-de-pacotes-de-processamento-de-imagens-em-Python
+
 
 Description. 
 The package package_name is used to:
