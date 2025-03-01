@@ -19,9 +19,3 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package
 ```bash
 pip install image_processing
 ```
-
-## Author
-Daniella
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
